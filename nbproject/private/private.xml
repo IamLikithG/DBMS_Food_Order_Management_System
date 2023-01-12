@@ -2,25 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/Updatefood.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/Insertfood.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/Updatecustomer.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/Searchcustomer.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/Deletefood.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/SearchBill.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/Insertcustomer.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/DeleteCustomer.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/Home_screen.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/SearchOrder.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/Searchfood.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/Login_form.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/Place_order.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/FOMS_DB_Part.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/DeleteOrder.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/GeneratingBill.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/customer_cart.java</file>
-            <file>file:/C:/ApacheProject/FOMS/src/foms/FOMS.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
